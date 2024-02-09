@@ -39,7 +39,7 @@ function submitForm() {
                break;
           default:
                context.fillStyle = "black";
-               break;
+                break;
      }
 
  context.fill();

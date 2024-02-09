@@ -2,7 +2,6 @@ CREATE TABLE user_info (
       username varchar(20),
       email varchar(50),
       age integer(5)
-      
 );
 
 
